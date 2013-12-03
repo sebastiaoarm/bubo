@@ -1,4 +1,4 @@
 bubo
 ====
 
-BUBO, um Ambiente Virtual de Aprendizagem simples, de uso intuitivo para administradores e usuários, desenvolvido utilizando PHP e SQLite.
+BUBO, a simple Virtual Learning Environment, intuitive to use for both administrators and users, developed using PHP and SQLite.
