@@ -1,0 +1,2 @@
+(Cancelado) Subir projeto para um servidor livre SVN;
+(Feito) Usar o Git pra controle de versões;
